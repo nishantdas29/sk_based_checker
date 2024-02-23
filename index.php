@@ -61,11 +61,11 @@
         <td><img src="img/IMG_20240121_172831.jpg" alt="Profile Image" width="200" height="200"></td>
         <td>
           <ul>
-            <li><b>NAME</b> - Madhur</li>
-            <li><b>UID</b> - 23MCC20057</li>
+            <li><b>NAME</b> - Nishant Kumar Das</li>
+            <li><b>UID</b> - 23MCC20112</li>
   
            
-            <li><b>ADDRESS</b> - Unna, Himanchal Pradesh</li>
+            <li><b>ADDRESS</b> - Dhanbad, Jharkhand</li>
           </ul>
         </td>
       </tr>
